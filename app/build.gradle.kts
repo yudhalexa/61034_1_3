@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ac.id.umn.basicstatecodelab"
-    compileSdk = 33
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ac.id.umn.basicstatecodelab"
